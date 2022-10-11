@@ -1,0 +1,12 @@
+.product-name{
+    margin-left: 10px;
+}
+.btn-share{
+    margin-left: 10px;
+    padding: 5px 8px;
+    border: none;
+    outline: none;
+    color: #fff;
+    background-color: rgb(25,118,210);
+    cursor: pointer;
+}
